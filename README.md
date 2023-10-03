@@ -21,78 +21,78 @@
 <div align="center">
 <a href="https://github.com/kimierik/RNK">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
 </a>
+  <img width="12" />
 
 <a href="https://github.com/kimierik/graphical">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
-  <img width="12" />
 </a>
+  <img width="12" />
 
 <a href="https://github.com/kimierik/PythonMultiplayerGame">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
 </a>
+  <img width="12" />
 
 <a href="https://github.com/kimierik/cbt">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
 </a>
+  <img width="12" />
 
 
 <a href="https://github.com/kimierik/TSI">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
 </a>
+  <img width="12" />
 
 <a href="https://github.com/kimierik/ElectroBill">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
 </a>
+  <img width="12" />
 
 <a href="https://github.com/kimierik/Cli-Tools">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
 </a>
+  <img width="12" />
 
 <a href="https://github.com/kimierik/MERN-boilerplate">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
 </a>
+  <img width="12" />
 
 <a href="https://github.com/kimierik/MERN-boilerplate">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
 </a>
+  <img width="12" />
 
 <a href="https://github.com/kimierik/lego">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
 </a>
+  <img width="12" />
 
 <a href="https://github.com/kimierik">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
 </a>
+  <img width="12" />
 
 <a href="https://github.com/kimierik/Led_matrix_controller">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
 </a>
+  <img width="12" />
 
 <a href="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
 </a>
+  <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
 
 <a href="https://github.com/kimierik/ElectroBill">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-  <img width="12" />
 </a>
 
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
 
 </div>
