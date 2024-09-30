@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Hi i'm Kimi a software engineering student at LAB university of applied sciences. I also do programming as a hobby</p>
+<p align="left">Hi i'm Kimi a finnish software engineer at. I also do programming as a hobby</p>
 
 ###
 
