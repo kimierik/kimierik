@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Hi i'm Kimi a finnish software engineer at. I also do programming as a hobby</p>
+<p align="left">Hi i'm Kimi a finnish software engineer. I also do programming as a hobby</p>
 
 ###
 
@@ -19,62 +19,62 @@
 ###
 
 <div align="center">
-<a href="https://github.com/kimierik/RNK">
+<a href="https://github.com/kimierik/RNK" style="width:40px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </a>
 
-<a href="https://github.com/kimierik/graphical">
+<a href="https://github.com/kimierik/graphical" style="width:40px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"  height="40" alt="rust logo" />
 </a>
 
-<a href="https://github.com/kimierik/PythonMultiplayerGame">
+<a href="https://github.com/kimierik/PythonMultiplayerGame" style="width:40px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </a>
 
-<a href="https://github.com/kimierik/cbt">
+<a href="https://github.com/kimierik/cbt" style="width:40px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
 </a>
 
 
-<a href="https://github.com/kimierik/TSI">
+<a href="https://github.com/kimierik/TSI" style="width:40px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 </a>
 
-<a href="https://github.com/kimierik/ElectroBill">
+<a href="https://github.com/kimierik/ElectroBill" style="width:40px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </a>
 
-<a href="https://github.com/kimierik/Cli-Tools">
+<a href="https://github.com/kimierik/Cli-Tools" style="width:40px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
 </a>
 
-<a href="https://github.com/kimierik/MERN-boilerplate">
+<a href="https://github.com/kimierik/MERN-boilerplate" style="width:40px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </a>
 
-<a href="https://github.com/kimierik/MERN-boilerplate">
+<a href="https://github.com/kimierik/MERN-boilerplate" style="width:40px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </a>
 
-<a href="https://github.com/kimierik/lego">
+<a href="https://github.com/kimierik/lego" style="width:40px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </a>
 
-<a href="https://github.com/kimierik">
+<a href="https://github.com/kimierik" style="width:40px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </a>
 
-<a href="https://github.com/kimierik/Led_matrix_controller">
+<a href="https://github.com/kimierik/Led_matrix_controller" style="width:40px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
 </a>
 
-<a href="">
+<a href="" style="width:40px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
 </a>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 
-<a href="https://github.com/kimierik/ElectroBill">
+<a href="https://github.com/kimierik/ElectroBill" style="width:40px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
 </a>
 
